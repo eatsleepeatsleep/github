@@ -1,0 +1,88 @@
+Yu-Chi LU
+
+Hi there,
+I'm Katrina Lu
+
+About
+你好，我是盧育琦。
+從大四開始涉略 UX/UI 相關領域，對此抱有極大的興趣，而後開始探索相關知識、追蹤潮流趨勢，也會從網路上尋找教學資源，有完成專案的經驗，目前亦持續精進自己。
+我喜歡嘗試未知，對於不熟悉的領域，我向來都抱著不逃避的學習態度。個性隨和、遇到困難會主動提出問題、尋求幫助，喜歡與人交流拓展自己的視野。
+這是我自己製作的網頁，歡迎與我聯絡
+
+
+
+Portfolio
+一起吃——銀髮共餐平台
+這是我在大四時的畢業專題。「一起吃」與長庚養生文化村、亞太智能機器股份有限公司合作，以營養促進、飲食社交為基礎，提供使用者在揪團吃飯中所需要的人事時地物。
+我從研究專案背景、使用者分析、後台規劃到介面設計、產品原型展示都完整地走過一遍，也製作了一本白皮書。原本專案是計畫透過 LINE 串連網頁的方式打造平台，但因為成本的關係，最後的使用流程都建立在 LINE 上。
+目前專案是進行到使用者端、營養師端、餐廳端三方的後台 API 串接，以及行銷宣傳的階段。
+      
+白皮書https://www.figma.com/proto/s8cNjVhAxQjRiMTUxfJEpj/%E9%BB%91%E7%9A%AE%E6%9B%B8?page-id=291%3A2&node-id=549%3A435&viewport=-3797%2C-1755%2C0.51&scaling=min-zoom
+網頁版介面設計https://www.figma.com/proto/6KrjB2Zg2akF98wpQ5Cidc/ui-design?page-id=0%3A1&node-id=533%3A11375&viewport=616%2C247%2C0.16&scaling=scale-down&starting-point-node-id=533%3A11375&show-proto-sidebar=1
+產品原型
+
+
+Skill
+Figma
+Illustrator
+After Effect
+Premiere
+Adobe XD
+Kwynote
+Power Point
+
+Education
+長庚大學
+2018.09 - 2023.06
+工業設計學系
+工商管理學系（雙主修）
+
+
+Experience
+work
+實習生
+映象模型有限公司
+2020.07 - 2020.08
+1.協助後處理部門作業
+2.製作公司賀卡
+
+實習生
+國家發展委員會檔案管理局
+2020.01 - 2020.02
+1.展覽流程企劃
+2.導覽人員練習
+
+
+活動攝影師
+Helen O’Grady 台灣分校
+2019.02 - 2020.07
+1.拍攝上課照片
+2.協助行政作業
+
+other
+STP 種子人才培訓計畫
+2021.03 - 2021.08
+1.環球水泥 USR
+2.小善活動
+
+校內實戰模擬平台培訓營
+2020
+1.Zenmeban平台 UI
+
+校內創新創業競賽
+2020
+1.憲光二村再地創生
+2.優等
+
+臺北大學國際經貿談判人才培育跨校學分學程
+2020.06 - 2020.08
+
+Interest
+music
+椅子樂團
+Real Love Is...
+
+庸俗救星
+末日倒數的庸俗週記
+
+movie
